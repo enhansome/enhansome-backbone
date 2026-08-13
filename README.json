@@ -1,0 +1,338 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T15:01:32Z",
+            "owner": "jashkenas",
+            "repo": "backbone",
+            "stars": 28101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yeoman generator for Backbone.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-02-13T17:35:09Z",
+            "owner": "yeoman",
+            "repo": "generator-backbone",
+            "stars": 635
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wine Cellar Sample Application",
+          "description": "\"Backbone Cellar\" is a sample application built with Backbone.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2012-05-03T14:20:55Z",
+            "owner": "ccoenraets",
+            "repo": "backbone-cellar",
+            "stars": 901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone Require Boilerplate",
+          "description": "A Rad Backbone.js and Require.js Boilerplate Project",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-04-16T14:40:08Z",
+            "owner": "BoilerplateMVC",
+            "repo": "Backbone-Require-Boilerplate",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone Boilerplates",
+          "description": "Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-04-02T22:13:08Z",
+            "owner": "addyosmani",
+            "repo": "backbone-boilerplates",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Employee Directory",
+          "description": "Employee Directory sample application built with Backbone.js and Twitter Bootstrap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-29T19:43:26Z",
+            "owner": "ccoenraets",
+            "repo": "directory-backbone-bootstrap",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone Contact Manager",
+          "description": "Simple Backbone.js example application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-02-05T07:07:08Z",
+            "owner": "dmytroyarmak",
+            "repo": "backbone-contact-manager",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Examples and boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Backbone.Relational",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-19T00:59:49Z",
+            "owner": "PaulUithol",
+            "repo": "Backbone-relational",
+            "stars": 2323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone-forms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-07T17:00:41Z",
+            "owner": "powmedia",
+            "repo": "backbone-forms",
+            "stars": 2151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backgrid.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-08-09T15:18:09Z",
+            "owner": "cloudflarearchive",
+            "repo": "backgrid",
+            "stars": 2003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.localStorage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-20T09:45:01Z",
+            "owner": "jeromegn",
+            "repo": "Backbone.localStorage",
+            "stars": 1884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.stickit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-07T13:54:03Z",
+            "owner": "nytimes",
+            "repo": "backbone.stickit",
+            "stars": 1625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.paginator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-05-11T13:36:39Z",
+            "owner": "backbone-paginator",
+            "repo": "backbone.paginator",
+            "stars": 1397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.validation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-30T17:51:52Z",
+            "owner": "thedersen",
+            "repo": "backbone.validation",
+            "stars": 1300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exoskeleton",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-07T09:49:19Z",
+            "owner": "paulmillr",
+            "repo": "exoskeleton",
+            "stars": 873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.dualstorage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-10-25T15:51:57Z",
+            "owner": "nilbus",
+            "repo": "Backbone.dualStorage",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.iobind",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-20T21:11:20Z",
+            "owner": "noveogroup",
+            "repo": "backbone.iobind",
+            "stars": 579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.Radio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T17:50:18Z",
+            "owner": "marionettejs",
+            "repo": "backbone.radio",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone-associations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-07T14:53:22Z",
+            "owner": "dhruvaray",
+            "repo": "backbone-associations",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone-tastypie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-09-01T13:14:19Z",
+            "owner": "PaulUithol",
+            "repo": "backbone-tastypie",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.BabySitter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-11T16:44:18Z",
+            "owner": "marionettejs",
+            "repo": "backbone.babysitter",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.History.Polyfill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-27T03:53:53Z",
+            "owner": "FidelityInternational",
+            "repo": "BackboneHistoryPolyfill",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Libraries"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T05:47:47.017Z",
+    "original_repository": "sadcitizen/awesome-backbone",
+    "original_repository_sha": "9835a75a2f491e23b6c038bf12631838d7d6d146",
+    "enhanced_repository": "enhansome/enhansome-backbone",
+    "enhanced_repository_description": null,
+    "title": "Awesome Backbone.js with stars"
+  }
+}
