@@ -152,7 +152,7 @@
             "last_commit": "2017-08-09T15:18:09Z",
             "owner": "cloudflarearchive",
             "repo": "backgrid",
-            "stars": 2003
+            "stars": 2001
           }
         },
         {
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T05:47:47.017Z",
+    "last_updated": "2026-08-14T05:44:16.836Z",
     "original_repository": "sadcitizen/awesome-backbone",
     "original_repository_sha": "9835a75a2f491e23b6c038bf12631838d7d6d146",
     "enhanced_repository": "enhansome/enhansome-backbone",
