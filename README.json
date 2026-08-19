@@ -28,7 +28,7 @@
             "last_commit": "2017-02-13T17:35:09Z",
             "owner": "yeoman",
             "repo": "generator-backbone",
-            "stars": 635
+            "stars": 634
           }
         }
       ],
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:48:49.744Z",
+    "last_updated": "2026-08-19T04:49:02.452Z",
     "original_repository": "sadcitizen/awesome-backbone",
     "original_repository_sha": "9835a75a2f491e23b6c038bf12631838d7d6d146",
     "enhanced_repository": "enhansome/enhansome-backbone",
