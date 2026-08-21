@@ -15,7 +15,7 @@
             "last_commit": "2026-07-29T15:01:32Z",
             "owner": "jashkenas",
             "repo": "backbone",
-            "stars": 28100
+            "stars": 28101
           }
         },
         {
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:50:14.323Z",
+    "last_updated": "2026-08-21T04:51:24.230Z",
     "original_repository": "sadcitizen/awesome-backbone",
     "original_repository_id": 27586090,
     "original_repository_sha": "9835a75a2f491e23b6c038bf12631838d7d6d146",
