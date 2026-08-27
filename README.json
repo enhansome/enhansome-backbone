@@ -132,7 +132,7 @@
             "last_commit": "2022-03-19T00:59:49Z",
             "owner": "PaulUithol",
             "repo": "Backbone-relational",
-            "stars": 2323
+            "stars": 2322
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2022-09-07T17:00:41Z",
             "owner": "powmedia",
             "repo": "backbone-forms",
-            "stars": 2150
+            "stars": 2149
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2020-05-11T13:36:39Z",
             "owner": "backbone-paginator",
             "repo": "backbone.paginator",
-            "stars": 1397
+            "stars": 1396
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2017-10-30T17:51:52Z",
             "owner": "thedersen",
             "repo": "backbone.validation",
-            "stars": 1300
+            "stars": 1299
           }
         },
         {
@@ -350,9 +350,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:53:14.798Z",
-    "original_repository": "sadcitizen/awesome-backbone",
-    "original_repository_id": 27586090,
+    "last_updated": "2026-08-27T11:26:34.914Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 27586090,
+      "language": null,
+      "last_commit": "2018-03-20T10:01:27Z",
+      "owner": "sadcitizen",
+      "repo": "awesome-backbone",
+      "stars": 405
+    },
     "original_repository_sha": "9835a75a2f491e23b6c038bf12631838d7d6d146",
     "enhanced_repository": "enhansome/enhansome-backbone",
     "enhanced_repository_description": null,
