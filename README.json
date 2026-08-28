@@ -16,7 +16,8 @@
             "owner": "jashkenas",
             "repo": "backbone",
             "stars": 28100
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "yeoman",
             "repo": "generator-backbone",
             "stars": 634
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         }
       ],
       "title": "General"
@@ -52,7 +54,8 @@
             "owner": "ccoenraets",
             "repo": "backbone-cellar",
             "stars": 901
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "BoilerplateMVC",
             "repo": "Backbone-Require-Boilerplate",
             "stars": 600
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "addyosmani",
             "repo": "backbone-boilerplates",
             "stars": 485
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "ccoenraets",
             "repo": "directory-backbone-bootstrap",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "dmytroyarmak",
             "repo": "backbone-contact-manager",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         }
       ],
       "title": "Examples and boilerplates"
@@ -133,7 +140,8 @@
             "owner": "PaulUithol",
             "repo": "Backbone-relational",
             "stars": 2322
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "powmedia",
             "repo": "backbone-forms",
             "stars": 2149
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "cloudflarearchive",
             "repo": "backgrid",
             "stars": 2001
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "jeromegn",
             "repo": "Backbone.localStorage",
             "stars": 1885
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "nytimes",
             "repo": "backbone.stickit",
             "stars": 1625
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "backbone-paginator",
             "repo": "backbone.paginator",
             "stars": 1396
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "thedersen",
             "repo": "backbone.validation",
             "stars": 1299
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "paulmillr",
             "repo": "exoskeleton",
             "stars": 873
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "nilbus",
             "repo": "Backbone.dualStorage",
             "stars": 797
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "noveogroup",
             "repo": "backbone.iobind",
             "stars": 579
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "marionettejs",
             "repo": "backbone.radio",
             "stars": 492
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "dhruvaray",
             "repo": "backbone-associations",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "PaulUithol",
             "repo": "backbone-tastypie",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "marionettejs",
             "repo": "backbone.babysitter",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         },
         {
           "node_type": "item",
@@ -343,14 +364,15 @@
             "owner": "FidelityInternational",
             "repo": "BackboneHistoryPolyfill",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:12:15.879Z",
+    "last_updated": "2026-08-28T16:35:32.087Z",
     "original_repository_info": {
       "archived": false,
       "id": 27586090,
