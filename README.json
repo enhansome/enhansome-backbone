@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give your JS App some Backbone with Models, Views, Collections, and Events",
+            "homepage": "http://backbonejs.org",
             "id": 952189,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T15:01:32Z",
+            "open_issues": 65,
             "owner": "jashkenas",
             "repo": "backbone",
-            "stars": 28100
+            "stars": 28100,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scaffold out a Backbone.js project",
+            "homepage": "http://yeoman.io",
             "id": 6804239,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-02-13T17:35:09Z",
+            "open_issues": 21,
             "owner": "yeoman",
             "repo": "generator-backbone",
-            "stars": 634
+            "stars": 634,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Backbone.js tutorial",
+            "homepage": null,
             "id": 2927635,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2012-05-03T14:20:55Z",
+            "open_issues": 10,
             "owner": "ccoenraets",
             "repo": "backbone-cellar",
-            "stars": 901
+            "stars": 901,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -64,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Rad Backbone.js and Require.js Boilerplate Project.",
+            "homepage": null,
             "id": 4435408,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-16T14:40:08Z",
+            "open_issues": 6,
             "owner": "BoilerplateMVC",
             "repo": "Backbone-Require-Boilerplate",
-            "stars": 600
+            "stars": 600,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -80,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more.",
+            "homepage": "http://addyosmani.com",
             "id": 3046519,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2013-04-02T22:13:08Z",
+            "open_issues": 10,
             "owner": "addyosmani",
             "repo": "backbone-boilerplates",
-            "stars": 485
+            "stars": 485,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -96,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Employee Directory sample application built with Backbone.js and Twitter Bootstrap",
+            "homepage": null,
             "id": 9499573,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-08-29T19:43:26Z",
+            "open_issues": 5,
             "owner": "ccoenraets",
             "repo": "directory-backbone-bootstrap",
-            "stars": 462
+            "stars": 462,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -112,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Backbone.js example application",
+            "homepage": "http://dmytroyarmak.github.io/backbone-contact-manager",
             "id": 16471457,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-02-05T07:07:08Z",
+            "open_issues": 0,
             "owner": "dmytroyarmak",
             "repo": "backbone-contact-manager",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         }
@@ -134,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models",
+            "homepage": "http://backbonerelational.org",
             "id": 1598886,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-19T00:59:49Z",
+            "open_issues": 70,
             "owner": "PaulUithol",
             "repo": "Backbone-relational",
-            "stars": 2322
+            "stars": 2322,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -150,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Form framework for BackboneJS with nested forms, editable lists and validation",
+            "homepage": null,
             "id": 2341343,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-07T17:00:41Z",
+            "open_issues": 150,
             "owner": "powmedia",
             "repo": "backbone-forms",
-            "stars": 2149
+            "stars": 2149,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -166,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Finally, an easily stylable semantic HTML data grid widget with a Javascript API that doesn't suck.",
+            "homepage": "http://backgridjs.com",
             "id": 6376011,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-09T15:18:09Z",
+            "open_issues": 88,
             "owner": "cloudflarearchive",
             "repo": "backgrid",
-            "stars": 2001
+            "stars": 2001,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -182,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A localStorage adapter for Backbone.js",
+            "homepage": null,
             "id": 1022555,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-20T09:45:01Z",
+            "open_issues": 10,
             "owner": "jeromegn",
             "repo": "Backbone.localStorage",
-            "stars": 1885
+            "stars": 1885,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -198,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backbone data binding, model binding plugin. The real logic-less templates.",
+            "homepage": null,
             "id": 5803599,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-05-07T13:54:03Z",
+            "open_issues": 31,
             "owner": "nytimes",
             "repo": "backbone.stickit",
-            "stars": 1625
+            "stars": 1625,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -214,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A pageable, drop-in replacement for Backbone.Collection called Backbone.PageableCollection.",
+            "homepage": "http://backbone-paginator.github.io/backbone.paginator/",
             "id": 3195278,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-11T13:36:39Z",
+            "open_issues": 18,
             "owner": "backbone-paginator",
             "repo": "backbone.paginator",
-            "stars": 1396
+            "stars": 1396,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -230,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A validation plugin for Backbone.js that validates both your model as well as form input",
+            "homepage": "thedersen.com/projects/backbone-validation",
             "id": 2456444,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-30T17:51:52Z",
+            "open_issues": 79,
             "owner": "thedersen",
             "repo": "backbone.validation",
-            "stars": 1299
+            "stars": 1299,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -246,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Faster and leaner Backbone for your HTML5 apps",
+            "homepage": "http://paulmillr.com/exoskeleton/",
             "id": 11714782,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-05-07T09:49:19Z",
+            "open_issues": 16,
             "owner": "paulmillr",
             "repo": "exoskeleton",
-            "stars": 873
+            "stars": 873,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -262,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A dual (localStorage and REST) sync adapter for Backbone.js",
+            "homepage": null,
             "id": 3274010,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-10-25T15:51:57Z",
+            "open_issues": 27,
             "owner": "nilbus",
             "repo": "Backbone.dualStorage",
-            "stars": 797
+            "stars": 797,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -278,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bind socket.io events to backbone models & collections. Also includes a drop-in replacement for Backbone.sync using socket.io.",
+            "homepage": "https://noveogroup.github.io/backbone.iobind/",
             "id": 2310568,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-12-20T21:11:20Z",
+            "open_issues": 15,
             "owner": "noveogroup",
             "repo": "backbone.iobind",
-            "stars": 579
+            "stars": 579,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -294,12 +379,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Messaging patterns for Backbone applications.",
+            "homepage": null,
             "id": 19029080,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-12T17:50:18Z",
+            "open_issues": 8,
             "owner": "marionettejs",
             "repo": "backbone.radio",
-            "stars": 492
+            "stars": 492,
+            "topics": [
+              "backbone",
+              "backbone-applications",
+              "decoupling",
+              "events",
+              "javascript",
+              "marionette",
+              "messaging",
+              "pub-sub",
+              "radio",
+              "request"
+            ]
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -310,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create object hierarchies with Backbone models; Respond to hierarchy changes using regular Backbone events.",
+            "homepage": "http://dhruvaray.github.io/backbone-associations/",
             "id": 5525347,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-12-07T14:53:22Z",
+            "open_issues": 21,
             "owner": "dhruvaray",
             "repo": "backbone-associations",
-            "stars": 490
+            "stars": 490,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -326,12 +432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small compatibility layer to make backbone.js and django-tastypie work together happily.",
+            "homepage": null,
             "id": 1825225,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-09-01T13:14:19Z",
+            "open_issues": 10,
             "owner": "PaulUithol",
             "repo": "backbone-tastypie",
-            "stars": 461
+            "stars": 461,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -342,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage child views for your Backbone.View (and other parents)",
+            "homepage": null,
             "id": 6772137,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-11T16:44:18Z",
+            "open_issues": 0,
             "owner": "marionettejs",
             "repo": "backbone.babysitter",
-            "stars": 379
+            "stars": 379,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -358,12 +474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backbone History Polyfill",
+            "homepage": null,
             "id": 70694669,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-27T03:53:53Z",
+            "open_issues": 0,
             "owner": "FidelityInternational",
             "repo": "BackboneHistoryPolyfill",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         }
@@ -372,15 +493,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:35:32.087Z",
+    "last_updated": "2026-08-29T04:45:04.844Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of resources for backbone.js",
+      "homepage": null,
       "id": 27586090,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2018-03-20T10:01:27Z",
+      "open_issues": 3,
       "owner": "sadcitizen",
       "repo": "awesome-backbone",
-      "stars": 405
+      "stars": 405,
+      "topics": []
     },
     "original_repository_sha": "9835a75a2f491e23b6c038bf12631838d7d6d146",
     "enhanced_repository": "enhansome/enhansome-backbone",
