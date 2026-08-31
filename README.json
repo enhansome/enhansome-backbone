@@ -199,7 +199,7 @@
             "open_issues": 150,
             "owner": "powmedia",
             "repo": "backbone-forms",
-            "stars": 2149,
+            "stars": 2148,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:54:54.861Z",
+    "last_updated": "2026-08-31T10:48:24.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",
