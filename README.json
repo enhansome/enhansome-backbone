@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "jashkenas",
             "repo": "backbone",
-            "stars": 28102,
+            "stars": 28101,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -130,7 +130,7 @@
             "open_issues": 5,
             "owner": "ccoenraets",
             "repo": "directory-backbone-bootstrap",
-            "stars": 462,
+            "stars": 461,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -325,7 +325,7 @@
             "open_issues": 16,
             "owner": "paulmillr",
             "repo": "exoskeleton",
-            "stars": 873,
+            "stars": 871,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -367,40 +367,8 @@
             "open_issues": 15,
             "owner": "noveogroup",
             "repo": "backbone.iobind",
-            "stars": 579,
+            "stars": 578,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:35:32.087Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Backbone.Radio",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Messaging patterns for Backbone applications.",
-            "homepage": null,
-            "id": 19029080,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-05-12T17:50:18Z",
-            "open_issues": 8,
-            "owner": "marionettejs",
-            "repo": "backbone.radio",
-            "stars": 492,
-            "topics": [
-              "backbone",
-              "backbone-applications",
-              "decoupling",
-              "events",
-              "javascript",
-              "marionette",
-              "messaging",
-              "pub-sub",
-              "radio",
-              "request"
-            ]
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -422,6 +390,38 @@
             "repo": "backbone-associations",
             "stars": 490,
             "topics": []
+          },
+          "first_seen": "2026-08-28T16:35:32.087Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Backbone.Radio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Messaging patterns for Backbone applications.",
+            "homepage": null,
+            "id": 19029080,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-05-12T17:50:18Z",
+            "open_issues": 8,
+            "owner": "marionettejs",
+            "repo": "backbone.radio",
+            "stars": 490,
+            "topics": [
+              "backbone",
+              "backbone-applications",
+              "decoupling",
+              "events",
+              "javascript",
+              "marionette",
+              "messaging",
+              "pub-sub",
+              "radio",
+              "request"
+            ]
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
         },
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "marionettejs",
             "repo": "backbone.babysitter",
-            "stars": 379,
+            "stars": 378,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:50:14.250Z",
+    "last_updated": "2026-09-09T08:56:31.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",
