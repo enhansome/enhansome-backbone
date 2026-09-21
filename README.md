@@ -101,7 +101,7 @@
 * [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) ⭐ 901 | 🐛 10 | 🌐 JavaScript | 📅 2012-05-03 - "Backbone Cellar" is a sample application built with Backbone.js
 * [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) ⚠️ Archived - A Rad Backbone.js and Require.js Boilerplate Project
 * [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) ⭐ 485 | 🐛 10 | 🌐 JavaScript | 📅 2013-04-02 - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
-* [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) ⭐ 461 | 🐛 5 | 🌐 JavaScript | 📅 2015-08-29 - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
+* [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) ⭐ 460 | 🐛 5 | 🌐 JavaScript | 📅 2015-08-29 - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
 * [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) ⭐ 64 | 🐛 0 | 🌐 JavaScript | 📅 2014-02-05 - Simple Backbone.js example application
 * [Backbone TodoMVC example](http://todomvc.com/examples/backbone/) - Simple todo app built using Backbone and Backbone.localStorage.
 
@@ -136,4 +136,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
