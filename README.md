@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,098 | 🐛 66 | 🌐 JavaScript | 📅 2026-09-28
+* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,099 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-28
 * [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) ⚠️ Archived
 * [Backbone.js](http://backbonejs.org/)
 * [Annotated source](http://backbonejs.org/docs/backbone.html)
@@ -136,4 +136,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

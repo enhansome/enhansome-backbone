@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Github repository",
-          "description": null,
+          "description": "jashkenas/backbone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-28T11:14:44Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "jashkenas",
             "repo": "backbone",
-            "stars": 28098,
+            "stars": 28099,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Yeoman generator for Backbone.js",
-          "description": null,
+          "description": "yeoman/generator-backbone",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -165,7 +165,7 @@
         {
           "node_type": "item",
           "title": "Backbone.Relational",
-          "description": null,
+          "description": "PaulUithol/Backbone-relational",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "Backbone-forms",
-          "description": null,
+          "description": "powmedia/backbone-forms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "Backgrid.js",
-          "description": null,
+          "description": "cloudflarearchive/backgrid",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -228,7 +228,7 @@
         {
           "node_type": "item",
           "title": "Backbone.localStorage",
-          "description": null,
+          "description": "jeromegn/Backbone.localStorage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -249,7 +249,7 @@
         {
           "node_type": "item",
           "title": "Backbone.stickit",
-          "description": null,
+          "description": "nytimes/backbone.stickit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "Backbone.paginator",
-          "description": null,
+          "description": "backbone-paginator/backbone.paginator",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -291,7 +291,7 @@
         {
           "node_type": "item",
           "title": "Backbone.validation",
-          "description": null,
+          "description": "thedersen/backbone.validation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "Exoskeleton",
-          "description": null,
+          "description": "paulmillr/exoskeleton",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -333,7 +333,7 @@
         {
           "node_type": "item",
           "title": "Backbone.dualstorage",
-          "description": null,
+          "description": "nilbus/Backbone.dualStorage",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -354,7 +354,7 @@
         {
           "node_type": "item",
           "title": "Backbone.iobind",
-          "description": null,
+          "description": "noveogroup/backbone.iobind",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -375,7 +375,7 @@
         {
           "node_type": "item",
           "title": "Backbone-associations",
-          "description": null,
+          "description": "dhruvaray/backbone-associations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -396,7 +396,7 @@
         {
           "node_type": "item",
           "title": "Backbone.Radio",
-          "description": null,
+          "description": "marionettejs/backbone.radio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -428,7 +428,7 @@
         {
           "node_type": "item",
           "title": "Backbone-tastypie",
-          "description": null,
+          "description": "PaulUithol/backbone-tastypie",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -449,7 +449,7 @@
         {
           "node_type": "item",
           "title": "Backbone.BabySitter",
-          "description": null,
+          "description": "marionettejs/backbone.babysitter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,7 +470,7 @@
         {
           "node_type": "item",
           "title": "Backbone.History.Polyfill",
-          "description": null,
+          "description": "FidelityInternational/BackboneHistoryPolyfill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:28:03.121Z",
+    "last_updated": "2026-10-03T04:37:19.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",
