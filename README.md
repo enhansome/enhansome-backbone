@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,096 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-28
+* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,096 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-08
 * [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) ⚠️ Archived
 * [Backbone.js](http://backbonejs.org/)
 * [Annotated source](http://backbonejs.org/docs/backbone.html)
@@ -131,9 +131,9 @@
 * [Backbone-associations](https://github.com/dhruvaray/backbone-associations) ⭐ 490 | 🐛 21 | 🌐 JavaScript | 📅 2016-12-07
 * [Backbone.Radio](https://github.com/marionettejs/backbone.radio) ⭐ 490 | 🐛 8 | 🌐 JavaScript | 📅 2026-05-12
 * [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) ⭐ 461 | 🐛 10 | 🌐 JavaScript | 📅 2014-09-01
-* [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) ⭐ 378 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-11
+* [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) ⭐ 377 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-11
 * [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-27
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

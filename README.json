@@ -15,8 +15,8 @@
             "id": 952189,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T11:14:44Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-08T22:18:21Z",
+            "open_issues": 65,
             "owner": "jashkenas",
             "repo": "backbone",
             "stars": 28096,
@@ -220,7 +220,7 @@
             "open_issues": 88,
             "owner": "cloudflarearchive",
             "repo": "backgrid",
-            "stars": 2001,
+            "stars": 2000,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -325,7 +325,7 @@
             "open_issues": 16,
             "owner": "paulmillr",
             "repo": "exoskeleton",
-            "stars": 870,
+            "stars": 869,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "marionettejs",
             "repo": "backbone.babysitter",
-            "stars": 378,
+            "stars": 377,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:19:04.669Z",
+    "last_updated": "2026-10-09T11:17:14.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",
