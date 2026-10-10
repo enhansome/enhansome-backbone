@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "jashkenas",
             "repo": "backbone",
-            "stars": 28096,
+            "stars": 28095,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -40,7 +40,7 @@
             "open_issues": 21,
             "owner": "yeoman",
             "repo": "generator-backbone",
-            "stars": 634,
+            "stars": 633,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -178,7 +178,7 @@
             "open_issues": 70,
             "owner": "PaulUithol",
             "repo": "Backbone-relational",
-            "stars": 2322,
+            "stars": 2321,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -241,7 +241,7 @@
             "open_issues": 10,
             "owner": "jeromegn",
             "repo": "Backbone.localStorage",
-            "stars": 1885,
+            "stars": 1884,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:17:14.726Z",
+    "last_updated": "2026-10-10T10:34:09.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",

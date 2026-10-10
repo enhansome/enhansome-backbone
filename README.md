@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,096 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-08
+* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,095 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-08
 * [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) ⚠️ Archived
 * [Backbone.js](http://backbonejs.org/)
 * [Annotated source](http://backbonejs.org/docs/backbone.html)
@@ -118,10 +118,10 @@
 
 ## Libraries
 
-* [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) ⭐ 2,322 | 🐛 70 | 🌐 JavaScript | 📅 2022-03-19
+* [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) ⭐ 2,321 | 🐛 70 | 🌐 JavaScript | 📅 2022-03-19
 * [Backbone-forms](https://github.com/powmedia/backbone-forms) ⭐ 2,147 | 🐛 150 | 🌐 JavaScript | 📅 2022-09-07
 * [Backgrid.js](https://github.com/wyuenho/backgrid) ⚠️ Archived
-* [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) ⭐ 1,885 | 🐛 10 | 🌐 JavaScript | 📅 2023-10-20
+* [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) ⭐ 1,884 | 🐛 10 | 🌐 JavaScript | 📅 2023-10-20
 * [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) ⭐ 1,625 | 🐛 31 | 🌐 JavaScript | 📅 2018-05-07
 * [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) ⚠️ Archived
 * [Backbone.validation](https://github.com/thedersen/backbone.validation) ⭐ 1,299 | 🐛 79 | 🌐 JavaScript | 📅 2017-10-30
@@ -136,4 +136,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
