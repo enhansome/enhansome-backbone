@@ -178,7 +178,7 @@
             "open_issues": 70,
             "owner": "PaulUithol",
             "repo": "Backbone-relational",
-            "stars": 2321,
+            "stars": 2320,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T08:58:48.882Z",
+    "last_updated": "2026-10-17T08:30:47.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",

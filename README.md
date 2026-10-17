@@ -118,7 +118,7 @@
 
 ## Libraries
 
-* [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) ⭐ 2,321 | 🐛 70 | 🌐 JavaScript | 📅 2022-03-19
+* [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) ⭐ 2,320 | 🐛 70 | 🌐 JavaScript | 📅 2022-03-19
 * [Backbone-forms](https://github.com/powmedia/backbone-forms) ⭐ 2,147 | 🐛 150 | 🌐 JavaScript | 📅 2022-09-07
 * [Backgrid.js](https://github.com/wyuenho/backgrid) ⚠️ Archived
 * [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) ⭐ 1,884 | 🐛 10 | 🌐 JavaScript | 📅 2023-10-20
@@ -136,4 +136,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
