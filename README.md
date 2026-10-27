@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,091 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-13
+* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,088 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-13
 * [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) ⚠️ Archived
 * [Backbone.js](http://backbonejs.org/)
 * [Annotated source](http://backbonejs.org/docs/backbone.html)
@@ -118,22 +118,22 @@
 
 ## Libraries
 
-* [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) ⭐ 2,320 | 🐛 70 | 🌐 JavaScript | 📅 2022-03-19
+* [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) ⭐ 2,319 | 🐛 70 | 🌐 JavaScript | 📅 2022-03-19
 * [Backbone-forms](https://github.com/powmedia/backbone-forms) ⭐ 2,147 | 🐛 150 | 🌐 JavaScript | 📅 2022-09-07
 * [Backgrid.js](https://github.com/wyuenho/backgrid) ⚠️ Archived
 * [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) ⭐ 1,884 | 🐛 10 | 🌐 JavaScript | 📅 2023-10-20
-* [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) ⭐ 1,625 | 🐛 31 | 🌐 JavaScript | 📅 2018-05-07
+* [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) ⭐ 1,624 | 🐛 31 | 🌐 JavaScript | 📅 2018-05-07
 * [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) ⚠️ Archived
 * [Backbone.validation](https://github.com/thedersen/backbone.validation) ⭐ 1,299 | 🐛 79 | 🌐 JavaScript | 📅 2017-10-30
 * [Exoskeleton](https://github.com/paulmillr/exoskeleton) ⚠️ Archived
 * [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) ⚠️ Archived
 * [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) ⭐ 579 | 🐛 15 | 🌐 JavaScript | 📅 2019-12-20
-* [Backbone.Radio](https://github.com/marionettejs/backbone.radio) ⭐ 491 | 🐛 8 | 🌐 JavaScript | 📅 2026-05-12
 * [Backbone-associations](https://github.com/dhruvaray/backbone-associations) ⭐ 490 | 🐛 21 | 🌐 JavaScript | 📅 2016-12-07
+* [Backbone.Radio](https://github.com/marionettejs/backbone.radio) ⭐ 490 | 🐛 8 | 🌐 JavaScript | 📅 2026-05-12
 * [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) ⭐ 461 | 🐛 10 | 🌐 JavaScript | 📅 2014-09-01
 * [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) ⭐ 378 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-11
 * [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-27
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
