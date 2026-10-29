@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "jashkenas",
             "repo": "backbone",
-            "stars": 28087,
+            "stars": 28085,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:31:39.362Z",
+    "last_updated": "2026-10-29T10:51:42.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",
