@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "jashkenas",
             "repo": "backbone",
-            "stars": 28082,
+            "stars": 28080,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -88,7 +88,7 @@
             "open_issues": 6,
             "owner": "BoilerplateMVC",
             "repo": "Backbone-Require-Boilerplate",
-            "stars": 600,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T11:52:32.251Z",
+    "last_updated": "2026-11-04T12:02:14.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",
