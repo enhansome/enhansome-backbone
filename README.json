@@ -220,7 +220,7 @@
             "open_issues": 88,
             "owner": "cloudflarearchive",
             "repo": "backgrid",
-            "stars": 2001,
+            "stars": 2000,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -241,7 +241,7 @@
             "open_issues": 10,
             "owner": "jeromegn",
             "repo": "Backbone.localStorage",
-            "stars": 1884,
+            "stars": 1883,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -262,7 +262,7 @@
             "open_issues": 31,
             "owner": "nytimes",
             "repo": "backbone.stickit",
-            "stars": 1624,
+            "stars": 1623,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -283,7 +283,7 @@
             "open_issues": 18,
             "owner": "backbone-paginator",
             "repo": "backbone.paginator",
-            "stars": 1394,
+            "stars": 1393,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:01:37.483Z",
+    "last_updated": "2026-11-07T11:00:09.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",
