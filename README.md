@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,078 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-13
+* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,079 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-13
 * [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) ⚠️ Archived
 * [Backbone.js](http://backbonejs.org/)
 * [Annotated source](http://backbonejs.org/docs/backbone.html)
@@ -100,7 +100,7 @@
 
 * [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) ⭐ 901 | 🐛 10 | 🌐 JavaScript | 📅 2012-05-03 - "Backbone Cellar" is a sample application built with Backbone.js
 * [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) ⚠️ Archived - A Rad Backbone.js and Require.js Boilerplate Project
-* [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) ⭐ 484 | 🐛 10 | 🌐 JavaScript | 📅 2013-04-02 - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
+* [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) ⭐ 485 | 🐛 10 | 🌐 JavaScript | 📅 2013-04-02 - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
 * [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) ⭐ 460 | 🐛 5 | 🌐 JavaScript | 📅 2015-08-29 - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
 * [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) ⭐ 64 | 🐛 0 | 🌐 JavaScript | 📅 2014-02-05 - Simple Backbone.js example application
 * [Backbone TodoMVC example](http://todomvc.com/examples/backbone/) - Simple todo app built using Backbone and Backbone.localStorage.
@@ -118,7 +118,7 @@
 
 ## Libraries
 
-* [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) ⭐ 2,318 | 🐛 70 | 🌐 JavaScript | 📅 2022-03-19
+* [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) ⭐ 2,319 | 🐛 70 | 🌐 JavaScript | 📅 2022-03-19
 * [Backbone-forms](https://github.com/powmedia/backbone-forms) ⭐ 2,148 | 🐛 150 | 🌐 JavaScript | 📅 2022-09-07
 * [Backgrid.js](https://github.com/wyuenho/backgrid) ⚠️ Archived
 * [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) ⭐ 1,883 | 🐛 10 | 🌐 JavaScript | 📅 2023-10-20
@@ -136,4 +136,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
