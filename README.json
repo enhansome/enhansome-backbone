@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-13T09:20:27Z",
-            "open_issues": 65,
+            "open_issues": 64,
             "owner": "jashkenas",
             "repo": "backbone",
             "stars": 28078,
@@ -346,7 +346,7 @@
             "open_issues": 27,
             "owner": "nilbus",
             "repo": "Backbone.dualStorage",
-            "stars": 797,
+            "stars": 798,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:32.087Z"
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:24:54.244Z",
+    "last_updated": "2026-11-15T11:54:27.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",
