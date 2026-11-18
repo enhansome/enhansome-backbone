@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-13T09:20:27Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "jashkenas",
             "repo": "backbone",
             "stars": 28077,
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:14:26.262Z",
+    "last_updated": "2026-11-18T12:58:31.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for backbone.js",
