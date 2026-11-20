@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,078 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-13
+* [Github repository](https://github.com/jashkenas/backbone) ⭐ 28,078 | 🐛 64 | 🌐 JavaScript | 📅 2026-11-20
 * [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone) ⚠️ Archived
 * [Backbone.js](http://backbonejs.org/)
 * [Annotated source](http://backbonejs.org/docs/backbone.html)
@@ -100,7 +100,7 @@
 
 * [Wine Cellar Sample Application](https://github.com/ccoenraets/backbone-cellar) ⭐ 901 | 🐛 10 | 🌐 JavaScript | 📅 2012-05-03 - "Backbone Cellar" is a sample application built with Backbone.js
 * [Backbone Require Boilerplate](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) ⚠️ Archived - A Rad Backbone.js and Require.js Boilerplate Project
-* [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) ⭐ 485 | 🐛 10 | 🌐 JavaScript | 📅 2013-04-02 - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
+* [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) ⭐ 484 | 🐛 10 | 🌐 JavaScript | 📅 2013-04-02 - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
 * [Employee Directory](https://github.com/ccoenraets/directory-backbone-bootstrap) ⭐ 460 | 🐛 5 | 🌐 JavaScript | 📅 2015-08-29 - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
 * [Backbone Contact Manager](https://github.com/dmytroyarmak/backbone-contact-manager) ⭐ 64 | 🐛 0 | 🌐 JavaScript | 📅 2014-02-05 - Simple Backbone.js example application
 * [Backbone TodoMVC example](http://todomvc.com/examples/backbone/) - Simple todo app built using Backbone and Backbone.localStorage.
@@ -119,21 +119,21 @@
 ## Libraries
 
 * [Backbone.Relational](https://github.com/PaulUithol/Backbone-relational) ⭐ 2,319 | 🐛 70 | 🌐 JavaScript | 📅 2022-03-19
-* [Backbone-forms](https://github.com/powmedia/backbone-forms) ⭐ 2,148 | 🐛 150 | 🌐 JavaScript | 📅 2022-09-07
+* [Backbone-forms](https://github.com/powmedia/backbone-forms) ⭐ 2,147 | 🐛 150 | 🌐 JavaScript | 📅 2022-09-07
 * [Backgrid.js](https://github.com/wyuenho/backgrid) ⚠️ Archived
-* [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) ⭐ 1,883 | 🐛 10 | 🌐 JavaScript | 📅 2023-10-20
+* [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) ⭐ 1,882 | 🐛 10 | 🌐 JavaScript | 📅 2023-10-20
 * [Backbone.stickit](https://github.com/NYTimes/backbone.stickit) ⭐ 1,623 | 🐛 31 | 🌐 JavaScript | 📅 2018-05-07
 * [Backbone.paginator](https://github.com/backbone-paginator/backbone.paginator) ⚠️ Archived
-* [Backbone.validation](https://github.com/thedersen/backbone.validation) ⭐ 1,300 | 🐛 79 | 🌐 JavaScript | 📅 2017-10-30
+* [Backbone.validation](https://github.com/thedersen/backbone.validation) ⭐ 1,299 | 🐛 79 | 🌐 JavaScript | 📅 2017-10-30
 * [Exoskeleton](https://github.com/paulmillr/exoskeleton) ⚠️ Archived
 * [Backbone.dualstorage](https://github.com/nilbus/Backbone.dualStorage) ⚠️ Archived
 * [Backbone.iobind](https://github.com/noveogroup/backbone.iobind) ⭐ 579 | 🐛 15 | 🌐 JavaScript | 📅 2019-12-20
-* [Backbone.Radio](https://github.com/marionettejs/backbone.radio) ⭐ 491 | 🐛 8 | 🌐 JavaScript | 📅 2026-05-12
 * [Backbone-associations](https://github.com/dhruvaray/backbone-associations) ⭐ 490 | 🐛 21 | 🌐 JavaScript | 📅 2016-12-07
+* [Backbone.Radio](https://github.com/marionettejs/backbone.radio) ⭐ 490 | 🐛 8 | 🌐 JavaScript | 📅 2026-05-12
 * [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) ⭐ 461 | 🐛 10 | 🌐 JavaScript | 📅 2014-09-01
-* [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) ⭐ 378 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-11
+* [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter) ⭐ 379 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-11
 * [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2016-10-27
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
